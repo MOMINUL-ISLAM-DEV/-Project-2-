@@ -3,4 +3,4 @@
 This project create from local system
 
 # Teacher
-Shradha Khapra
+Teach by Shradha Khapra
